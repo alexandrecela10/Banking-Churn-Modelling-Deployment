@@ -9,7 +9,7 @@ Business Problem Statement
 The primary objective of this project was to develop a machine learning model that accurately predicts churn within the bank's customer base. The model would assist the bank in identifying customers who are at a high risk of leaving, enabling proactive measures to be taken to prevent churn.
 
 ## Automated Exploratory Data Analysis
-To gain insights into the data and understand the characteristics of potential churners, an automated exploratory data analysis (EDA) was performed. The EDA process utilized the Dataprep package along with custom functions. This automated approach allowed for efficient data exploration, identification of trends, and understanding the underlying patterns related to churn.
+To gain insights into the data and understand the characteristics of potential churners, an automated exploratory data analysis (EDA) was performed. The EDA process utilized the Dataprep package along with custom functions. Which you can find in a given repository. This automated approach allowed for efficient data exploration, identification of trends, and understanding the underlying patterns related to churn.
 
 ## Automated Data Preprocessing and Modelling with Pipelines
 To streamline the data preprocessing and modelling stages, an automated pipeline approach was employed. This pipeline encompassed data preprocessing steps such as feature scaling, handling missing values, and encoding categorical variables. The pipeline further integrated the ML model training and evaluation steps.
