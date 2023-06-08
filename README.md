@@ -23,7 +23,7 @@ Multiple models were tested using a five-fold cross-validation approach. This te
 ## Automated Hyperparameter Tuning
 The best performing model, Extra Trees Classifier, underwent further improvement through hyperparameter tuning. Random Search CV and GridSearch CV techniques were employed to automatically search through a range of hyperparameters and find the optimal combination that improved model performance. This automated process saved time and ensured the best possible configuration was obtained for the model.
 
-## Model Improvement and Error Analysis
+## Model Improvement and Error Analysis
 Error analysis techniques were utilized to gain a deeper understanding of the model's shortcomings and areas for improvement. By analyzing misclassified instances, the model's weaknesses were identified and addressed. Threshold tweaking techniques were applied to adjust the decision boundary of the model, resulting in an improved F1 score of 60% and recall of 78% on the test set.
 
 ## Creation of a List of High Probability Churners
