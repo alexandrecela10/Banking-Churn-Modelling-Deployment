@@ -1,5 +1,5 @@
 # Banking-Churn-Modelling-Deployment
-Modelling customers churn for a Bank. Exploratory Data Analysis, Automated Data Preprocessing, Modelling with Classification and Ensemble Tree models, Error Analysis, Deployment
+Modelling customers churn for a Bank. Exploratory Data Analysis, Automated Data Preprocessing, Features Importance, Modelling with Classification and Ensemble Tree models, Error Analysis, Deployment
 
 ## Introduction
 This readme file provides a summary of a machine learning (ML) project focused on banking churn modelling. The project aimed to address the business problem of identifying potential churners within a banking customer base. Churn refers to customers who are likely to stop using the bank's services in the near future. By predicting churn, the bank can proactively engage with these customers and take necessary actions to retain them. The metric to maximise was the Recall, while keeping the f1 score not too low
